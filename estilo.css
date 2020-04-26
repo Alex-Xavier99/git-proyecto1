@@ -1,0 +1,12 @@
+ @charset "UTF-8";
+    body {
+        margin: 0px;
+        font-family: sans-serif;
+        background-color: rgba(0, 0, 0, 0.726);
+        opacity: 1;
+    }
+    h1 {
+        color: wheat;
+        margin-top: 0px;
+        /*font-size: 24px;*/
+    }
